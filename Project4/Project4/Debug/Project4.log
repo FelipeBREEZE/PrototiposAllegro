@@ -1,0 +1,3 @@
+﻿  Origem.c
+c:\users\felipe.afonseca\source\repos\project4\project4\origem.c(104): warning C4133: '=': tipos incompatíveis - de 'ALLEGRO_SAMPLE *' para 'ALLEGRO_AUDIO_STREAM *'
+  Project4.vcxproj -> C:\Users\felipe.afonseca\source\repos\Project4\Debug\Project4.exe
